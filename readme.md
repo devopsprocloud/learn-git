@@ -10,3 +10,4 @@
 ### rebase
 
 * rebase is another merge strategy
+* still developing the code
