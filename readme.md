@@ -6,3 +6,7 @@
 
 * Developer is doing some development
 * Developer spends some time and pushesh to git a lot as part of development
+
+### rebase
+
+* rebase is another merge strategy
