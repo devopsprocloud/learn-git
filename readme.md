@@ -12,3 +12,7 @@
 * rebase is another merge strategy
 * still developing the code
 * Development is completed
+
+## squash
+
+* started developing the code
