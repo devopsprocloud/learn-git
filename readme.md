@@ -11,3 +11,4 @@
 
 * rebase is another merge strategy
 * still developing the code
+* Development is completed
